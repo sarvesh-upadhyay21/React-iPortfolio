@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-iPortfolio/static/css/main.1c80d214.css",
+    "main.js": "/React-iPortfolio/static/js/main.77fce95c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/React-iPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-iPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Sarvesh_4_2024.pdf": "/React-iPortfolio/static/media/Sarvesh_4_2024.b7be1a0c565ee73c7323.pdf",
+    "static/media/home-main.svg": "/React-iPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/React-iPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/React-iPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/React-iPortfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/React-iPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/React-iPortfolio/index.html",
+    "main.1c80d214.css.map": "/React-iPortfolio/static/css/main.1c80d214.css.map",
+    "main.77fce95c.js.map": "/React-iPortfolio/static/js/main.77fce95c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/React-iPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-iPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c80d214.css",
+    "static/js/main.77fce95c.js"
+  ]
+}
